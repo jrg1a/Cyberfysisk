@@ -1,0 +1,14 @@
+/Users/jrgen/RiderProjects/TowerOfHanoi/TowerOfHanoi/bin/Debug/net8.0/TowerOfHanoi
+/Users/jrgen/RiderProjects/TowerOfHanoi/TowerOfHanoi/bin/Debug/net8.0/TowerOfHanoi.deps.json
+/Users/jrgen/RiderProjects/TowerOfHanoi/TowerOfHanoi/bin/Debug/net8.0/TowerOfHanoi.runtimeconfig.json
+/Users/jrgen/RiderProjects/TowerOfHanoi/TowerOfHanoi/bin/Debug/net8.0/TowerOfHanoi.dll
+/Users/jrgen/RiderProjects/TowerOfHanoi/TowerOfHanoi/bin/Debug/net8.0/TowerOfHanoi.pdb
+/Users/jrgen/RiderProjects/TowerOfHanoi/TowerOfHanoi/obj/Debug/net8.0/TowerOfHanoi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jrgen/RiderProjects/TowerOfHanoi/TowerOfHanoi/obj/Debug/net8.0/TowerOfHanoi.AssemblyInfoInputs.cache
+/Users/jrgen/RiderProjects/TowerOfHanoi/TowerOfHanoi/obj/Debug/net8.0/TowerOfHanoi.AssemblyInfo.cs
+/Users/jrgen/RiderProjects/TowerOfHanoi/TowerOfHanoi/obj/Debug/net8.0/TowerOfHanoi.csproj.CoreCompileInputs.cache
+/Users/jrgen/RiderProjects/TowerOfHanoi/TowerOfHanoi/obj/Debug/net8.0/TowerOfHanoi.dll
+/Users/jrgen/RiderProjects/TowerOfHanoi/TowerOfHanoi/obj/Debug/net8.0/refint/TowerOfHanoi.dll
+/Users/jrgen/RiderProjects/TowerOfHanoi/TowerOfHanoi/obj/Debug/net8.0/TowerOfHanoi.pdb
+/Users/jrgen/RiderProjects/TowerOfHanoi/TowerOfHanoi/obj/Debug/net8.0/TowerOfHanoi.genruntimeconfig.cache
+/Users/jrgen/RiderProjects/TowerOfHanoi/TowerOfHanoi/obj/Debug/net8.0/ref/TowerOfHanoi.dll

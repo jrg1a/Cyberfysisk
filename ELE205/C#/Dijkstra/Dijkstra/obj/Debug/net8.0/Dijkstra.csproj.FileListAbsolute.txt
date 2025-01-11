@@ -1,0 +1,14 @@
+/Users/jrgen/Documents/Prosjekter/C#/Dijkstra/Dijkstra/bin/Debug/net8.0/Dijkstra
+/Users/jrgen/Documents/Prosjekter/C#/Dijkstra/Dijkstra/bin/Debug/net8.0/Dijkstra.deps.json
+/Users/jrgen/Documents/Prosjekter/C#/Dijkstra/Dijkstra/bin/Debug/net8.0/Dijkstra.runtimeconfig.json
+/Users/jrgen/Documents/Prosjekter/C#/Dijkstra/Dijkstra/bin/Debug/net8.0/Dijkstra.dll
+/Users/jrgen/Documents/Prosjekter/C#/Dijkstra/Dijkstra/bin/Debug/net8.0/Dijkstra.pdb
+/Users/jrgen/Documents/Prosjekter/C#/Dijkstra/Dijkstra/obj/Debug/net8.0/Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jrgen/Documents/Prosjekter/C#/Dijkstra/Dijkstra/obj/Debug/net8.0/Dijkstra.AssemblyInfoInputs.cache
+/Users/jrgen/Documents/Prosjekter/C#/Dijkstra/Dijkstra/obj/Debug/net8.0/Dijkstra.AssemblyInfo.cs
+/Users/jrgen/Documents/Prosjekter/C#/Dijkstra/Dijkstra/obj/Debug/net8.0/Dijkstra.csproj.CoreCompileInputs.cache
+/Users/jrgen/Documents/Prosjekter/C#/Dijkstra/Dijkstra/obj/Debug/net8.0/Dijkstra.dll
+/Users/jrgen/Documents/Prosjekter/C#/Dijkstra/Dijkstra/obj/Debug/net8.0/refint/Dijkstra.dll
+/Users/jrgen/Documents/Prosjekter/C#/Dijkstra/Dijkstra/obj/Debug/net8.0/Dijkstra.pdb
+/Users/jrgen/Documents/Prosjekter/C#/Dijkstra/Dijkstra/obj/Debug/net8.0/Dijkstra.genruntimeconfig.cache
+/Users/jrgen/Documents/Prosjekter/C#/Dijkstra/Dijkstra/obj/Debug/net8.0/ref/Dijkstra.dll

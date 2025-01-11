@@ -1,0 +1,14 @@
+/Users/jrgen/Documents/Prosjekter/C#/BubbleSort/BubbleSortAlgorithm/bin/Debug/net8.0/BubbleSortAlgorithm
+/Users/jrgen/Documents/Prosjekter/C#/BubbleSort/BubbleSortAlgorithm/bin/Debug/net8.0/BubbleSortAlgorithm.deps.json
+/Users/jrgen/Documents/Prosjekter/C#/BubbleSort/BubbleSortAlgorithm/bin/Debug/net8.0/BubbleSortAlgorithm.runtimeconfig.json
+/Users/jrgen/Documents/Prosjekter/C#/BubbleSort/BubbleSortAlgorithm/bin/Debug/net8.0/BubbleSortAlgorithm.dll
+/Users/jrgen/Documents/Prosjekter/C#/BubbleSort/BubbleSortAlgorithm/bin/Debug/net8.0/BubbleSortAlgorithm.pdb
+/Users/jrgen/Documents/Prosjekter/C#/BubbleSort/BubbleSortAlgorithm/obj/Debug/net8.0/BubbleSortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jrgen/Documents/Prosjekter/C#/BubbleSort/BubbleSortAlgorithm/obj/Debug/net8.0/BubbleSortAlgorithm.AssemblyInfoInputs.cache
+/Users/jrgen/Documents/Prosjekter/C#/BubbleSort/BubbleSortAlgorithm/obj/Debug/net8.0/BubbleSortAlgorithm.AssemblyInfo.cs
+/Users/jrgen/Documents/Prosjekter/C#/BubbleSort/BubbleSortAlgorithm/obj/Debug/net8.0/BubbleSortAlgorithm.csproj.CoreCompileInputs.cache
+/Users/jrgen/Documents/Prosjekter/C#/BubbleSort/BubbleSortAlgorithm/obj/Debug/net8.0/BubbleSortAlgorithm.dll
+/Users/jrgen/Documents/Prosjekter/C#/BubbleSort/BubbleSortAlgorithm/obj/Debug/net8.0/refint/BubbleSortAlgorithm.dll
+/Users/jrgen/Documents/Prosjekter/C#/BubbleSort/BubbleSortAlgorithm/obj/Debug/net8.0/BubbleSortAlgorithm.pdb
+/Users/jrgen/Documents/Prosjekter/C#/BubbleSort/BubbleSortAlgorithm/obj/Debug/net8.0/BubbleSortAlgorithm.genruntimeconfig.cache
+/Users/jrgen/Documents/Prosjekter/C#/BubbleSort/BubbleSortAlgorithm/obj/Debug/net8.0/ref/BubbleSortAlgorithm.dll

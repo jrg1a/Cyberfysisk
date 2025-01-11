@@ -1,0 +1,14 @@
+/Users/jrgen/Documents/Prosjekter/Eksamen/ELE205_HØST24/H21/O4/O4/bin/Debug/net8.0/O4
+/Users/jrgen/Documents/Prosjekter/Eksamen/ELE205_HØST24/H21/O4/O4/bin/Debug/net8.0/O4.deps.json
+/Users/jrgen/Documents/Prosjekter/Eksamen/ELE205_HØST24/H21/O4/O4/bin/Debug/net8.0/O4.runtimeconfig.json
+/Users/jrgen/Documents/Prosjekter/Eksamen/ELE205_HØST24/H21/O4/O4/bin/Debug/net8.0/O4.dll
+/Users/jrgen/Documents/Prosjekter/Eksamen/ELE205_HØST24/H21/O4/O4/bin/Debug/net8.0/O4.pdb
+/Users/jrgen/Documents/Prosjekter/Eksamen/ELE205_HØST24/H21/O4/O4/obj/Debug/net8.0/O4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jrgen/Documents/Prosjekter/Eksamen/ELE205_HØST24/H21/O4/O4/obj/Debug/net8.0/O4.AssemblyInfoInputs.cache
+/Users/jrgen/Documents/Prosjekter/Eksamen/ELE205_HØST24/H21/O4/O4/obj/Debug/net8.0/O4.AssemblyInfo.cs
+/Users/jrgen/Documents/Prosjekter/Eksamen/ELE205_HØST24/H21/O4/O4/obj/Debug/net8.0/O4.csproj.CoreCompileInputs.cache
+/Users/jrgen/Documents/Prosjekter/Eksamen/ELE205_HØST24/H21/O4/O4/obj/Debug/net8.0/O4.dll
+/Users/jrgen/Documents/Prosjekter/Eksamen/ELE205_HØST24/H21/O4/O4/obj/Debug/net8.0/refint/O4.dll
+/Users/jrgen/Documents/Prosjekter/Eksamen/ELE205_HØST24/H21/O4/O4/obj/Debug/net8.0/O4.pdb
+/Users/jrgen/Documents/Prosjekter/Eksamen/ELE205_HØST24/H21/O4/O4/obj/Debug/net8.0/O4.genruntimeconfig.cache
+/Users/jrgen/Documents/Prosjekter/Eksamen/ELE205_HØST24/H21/O4/O4/obj/Debug/net8.0/ref/O4.dll
